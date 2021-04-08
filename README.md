@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更　　
 rebase-practiceブランチで変更(rebase用)
-stash練習S
+stash練習(トラック済)  
